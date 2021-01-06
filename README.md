@@ -12,7 +12,7 @@ The code is written in python version 3, using Jupyter notebooks as it is availa
 
 You can directly run the jupyter notebook on Google Colab engine by using this like:
 
-[Run on Colab](https://colab.research.google.com/github/Sinamirshahi/stockfuzzymodeling/blob/main/main.ipynb)
+[Run on Colab](https://colab.research.google.com/github/Sinamirshahi/stockfuzzymodeling/blob/main/main.ipynb#)
 
 **Note that if you use Colab you have to install the libraries before running the rest of the code, you have to uncomment the first cell of the Jupyter cell and run it so the libraries be installed**
 
