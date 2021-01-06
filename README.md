@@ -10,7 +10,7 @@ The code is written in python version 3, using Jupyter notebooks as it is availa
 
 ## Easy way
 
-You can directly run the jupyter notebook on Google Colab engine by using this like:
+You can directly fork this repository on Google Colab engine by using this link:
 
 [Run on Colab](https://colab.research.google.com/github/Sinamirshahi/stockfuzzymodeling/blob/main/before_new_year.ipynb)
 
@@ -42,7 +42,7 @@ jupyter notebook
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Any sugesstion and modification are welcomed, just let us know.
 
 ## Code Authors
 
